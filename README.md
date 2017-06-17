@@ -7,7 +7,7 @@
 仅写了mp4格式，需其它格式只需if加个条件即可。
 ```
 
-### requirements
+## requirements
 * ffmpeg
 
 ----
@@ -19,7 +19,7 @@
 进入源码自行修改截取区域大小。
 ```
 
-### requirements
+## requirements
 * PIL
 
 ---
