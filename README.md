@@ -33,5 +33,5 @@ keep-image.py
 
 ## 批量重命名
 ```bash
-keep-image.py
+rename.py
 ```
