@@ -25,8 +25,13 @@
 ---
 
 ## 批量清除（保留）制定格式文件
-```bash
-keep-image.py
+
+~~keep-image.py~~
+
+现在直接用shell比较舒服
+
+```shell
+find . -name '[a-z].txt' -maxdepth 1 -exec rm {} \;
 ```
 
 ---
