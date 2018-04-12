@@ -1,10 +1,14 @@
 # 一些自用小工具
 
-##  批量视频片头剪切
+##  批量视频片头剪切/batch cut the opening of the video
 ```bash
 下载video-clip.py到需要剪切的视频同级目录。
 进入源码自行修改片头秒数。
 仅写了mp4格式，需其它格式只需if加个条件即可。
+------------------
+git clone https://github.com/mashaz/useful-tools.git
+copy video-clip.py to videos' directory or copy videos to useful-tools, you can change the second in code you want
+python2 video-clip.py
 ```
 
 ## requirements
